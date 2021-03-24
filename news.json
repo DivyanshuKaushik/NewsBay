@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Australia floods as big as 'two European countries'",
+            "description": "Some areas are seeing enormous amounts of rain, in what has been called a “once in 200 years event”.",
+            "url": "http://www.bbc.co.uk/news/world-australia-56505901",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/400xn/p09bml8z.jpg",
+            "publishedAt": "2021-03-24T05:07:22.7263342Z",
+            "content": "A weather system has drenched Australias east coast, causing widespread flooding and forcing thousands to evacuate. \r\nSenior risk scientist Thomas Mortlock spoke with the BBC about the scale of the e… [+99 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China's biggest car brand launches rival to Tesla",
+            "description": "Geely's new premium electric car brand Zeekr comes as Elon Musk goes on the charm offensive in China.",
+            "url": "http://www.bbc.co.uk/news/business-56493572",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/95AD/production/_117671383_lynkco-zero-bas-2-1.jpg",
+            "publishedAt": "2021-03-24T03:22:24.4905826Z",
+            "content": "image copyrightGetty Images\r\nimage captionThe Lotus Evija is a limited production electric sports car.\r\nChina's biggest carmaker Geely is launching a premium electric car brand it hopes will take on … [+2736 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "North Korea missiles: Biden says launch 'not provocation'",
+            "description": "The short-range missile test is the first to be conducted since the US president took office.",
+            "url": "http://www.bbc.co.uk/news/world-asia-56504040",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C8EE/production/_117683415_hi066377130.jpg",
+            "publishedAt": "2021-03-24T02:37:18.59881Z",
+            "content": "image captionMr Biden was speaking to press on Tuesday night at the White House\r\nUS President Joe Biden has said he does not consider North Korea's launch of short-range missiles - the first since he… [+2771 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus: Russia's Putin gets vaccine but without cameras",
+            "description": "Russia's president wants to encourage people to get vaccinated but gets his jab behind closed doors.",
+            "url": "http://www.bbc.co.uk/news/world-europe-56498847",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3D3D/production/_117677651_putin6.jpg",
+            "publishedAt": "2021-03-24T01:22:35.2239986Z",
+            "content": "By Sarah RainsfordBBC News, Moscow\r\nimage captionMr Putin, in Siberia at the weekend, is no stranger to photo-opportunities but wanted to avoid the cameras for his jab\r\nVladimir Putin has been vaccin… [+4686 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Egypt's Suez Canal blocked by large container ship",
+            "description": "Several tug boats are deployed to shift the vessel, which is causing a build-up of shipping traffic.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-56505413",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FF9E/production/_117683456_hi031025797.jpg",
+            "publishedAt": "2021-03-24T01:22:24.5202778Z",
+            "content": "image copyrightScience Photo Library\r\nimage captionA container ship entering the Suez Canal in Egypt, with the city of Suez on the right (file photo)\r\nEgypt's Suez Canal has been blocked by a large c… [+1538 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Israel election: Netanyahu claims 'huge win' for right-wing parties",
+            "description": "Exit polls suggest the PM may still fall short of a majority after the fourth election in two years.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-56504661",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/26C8/production/_117682990_mediaitem117682989.jpg",
+            "publishedAt": "2021-03-23T23:52:23.2706339Z",
+            "content": "image captionThe election has been widely seen as a referendum on Benjamin Netanyahu's leadership\r\nPrime Minister Benjamin Netanyahu has claimed a \"huge win\" for the right in Israel's fourth election… [+2254 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid: DoorDash delivers at-home test kits",
+            "description": "The food delivery service is bringing test kits to homes in select US cities.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-56504961",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C2A4/production/_117682894_gettyimages-1249273237.jpg",
+            "publishedAt": "2021-03-23T23:37:22.0992043Z",
+            "content": "By Cody GodwinBBC News, San Francisco\r\nimage copyrightGetty Images\r\nWould you like a Covid test with your chips?\r\nSome US residents can now get one alongside a meal after food ordering service DoorDa… [+1765 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Boulder victims: A police officer, a store manager and food shoppers",
+            "description": "A policeman with seven children and a 25-year-old grocery manager are among the 10 victims.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-56501686",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44D2/production/_117681671_victims.jpg",
+            "publishedAt": "2021-03-23T20:22:20.8658519Z",
+            "content": "media captionBoulder Police Chief Maris Herold reads the names of 10 victims of the Colorado mass shooting\r\nA police officer, a store manager and people shopping for food: the victims of the shooting… [+4827 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Harry to become chief impact officer at US coaching firm BetterUp",
+            "description": "The Duke of Sussex is \"really excited\" to become chief impact officer for coaching firm BetterUp.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-56500298",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13180/production/_117680287_066387971-1.jpg",
+            "publishedAt": "2021-03-23T17:22:23.8951822Z",
+            "content": "image captionPrince Harry and his wife have stepped away from royal duties\r\nThe Duke of Sussex is to become chief impact officer at the US coaching and mental health firm, BetterUp.\r\nPrince Harry sai… [+2424 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Boulder shooting: Ten victims and suspect identified by police",
+            "description": "Colorado officials have named the suspect and 10 people killed in an attack on a grocery store.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-56501234",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1574F/production/_117678878_gettyimages-1231879033.jpg",
+            "publishedAt": "2021-03-23T15:07:18.9745988Z",
+            "content": "media captionEmergency responders led people in the area to safety\r\nAuthorities in Boulder, Colorado, have identified the 10 victims killed in a mass shooting inside a grocery store on Monday, as wel… [+6146 chars]"
+        }
+    ]
+}
